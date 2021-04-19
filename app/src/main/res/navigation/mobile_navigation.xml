@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="humber.its.drivershigh.ui.notifications.NotificationsFragment"
+        android:name="humber.its.drivershigh.ui.settings.SettingsFragment"
         android:label="@string/settings"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
